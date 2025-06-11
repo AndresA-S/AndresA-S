@@ -4,7 +4,7 @@
 </h5>
 <p align="center">
   <br>
-    I'm a student at uOttawa, completing my degree in Computer Science from the University of Ottawa! 
+    I'm a student and employee of the University of Otawa, working for Sports IT, and completing my degree in Computer Science!
   <br>
   <br>
     My current role is in IT support & networking. I also work with students in residence communities with uOttawa's Residence Life!
